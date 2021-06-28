@@ -26,10 +26,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.github.steveash.addr</groupId>
+  
+  <groupId>com.ekotrope.us_address_parser</groupId>
   <artifactId>us-address-parser</artifactId>
-
-  <version>0.2-SNAPSHOT</version>
+  <version>1.1</version>
 
   <name>us-address-parser</name>
   <description>Mavenized version of the abandoned google code project USAddressParser</description>
